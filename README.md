@@ -3,8 +3,8 @@
 backend engineer based in india — i build serverless APIs, wrangle distributed systems,
 and lately spend a lot of time wiring LLMs into things that matter.
 
-currently at **Coforge**, working on cloud-native backend systems with Java & AWS.  
-when i'm not shipping code, i'm solving problems on leetcode or writing on medium.
+currently working on cloud-native backend systems with Java & AWS.  
+when i'm not shipping code, i'm solving problems on leetcode or learning about distributed systems.
 
 ---
 
@@ -26,7 +26,7 @@ when i'm not shipping code, i'm solving problems on leetcode or writing on mediu
 
 **find me**
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmayank/)
-[![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/pathakmayank021/)
-[![medium](https://img.shields.io/badge/medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pathakmayank021)
-[![email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pathakmayank021@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-gray?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmayank/)
+[![leetcode](https://img.shields.io/badge/leetcode-gray?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/pathakmayank021/)
+[![medium](https://img.shields.io/badge/medium-gray?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pathakmayank021)
+[![email](https://img.shields.io/badge/email-gray?style=flat-square&logo=gmail&logoColor=white)](mailto:pathakmayank021@gmail.com)
